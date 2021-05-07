@@ -1,0 +1,7 @@
+# ignore all, unignore all extensions and dirs so that executables will be ignored
+*
+!*.*
+!*/
+# also ignore object files
+*.o
+linked_list.c
