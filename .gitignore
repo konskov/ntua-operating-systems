@@ -2,6 +2,7 @@
 *
 !*.*
 !*/
+!Makefile
 # also ignore object files
 *.o
 linked_list.c
